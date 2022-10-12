@@ -51,7 +51,7 @@
     "codelyzer": "^4.5.0",
     "cordova-icon": "^0.11.0",
     "cordova-splash": "^0.10.0",
-    "electron-packager": "^11.2.1",
+    "electron-packager": "^16.0.0",
     "jasmine-core": "~2.8.0",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "^2.0.5",
